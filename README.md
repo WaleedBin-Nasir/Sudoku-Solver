@@ -1,4 +1,3 @@
-<img width="1224" height="850" alt="image" src="https://github.com/user-attachments/assets/40f5bdc9-848f-43a8-8628-9765034c141e" /># Sudoku CSP Solver
 
 A high-performance Sudoku solver implemented as a Constraint Satisfaction Problem (CSP). This project utilizes advanced search and consistency algorithms, including AC-3, Forward Checking, and Backtracking with MRV, to solve grid puzzles efficiently.
 
@@ -55,4 +54,4 @@ python sudoku_gui.py
 
 To run the CLI Solver:
 python q3_sudoku_csp.py sudoku_boards/easy.txt
-
+<img width="1224" height="850" alt="image" src="https://github.com/user-attachments/assets/40f5bdc9-848f-43a8-8628-9765034c141e" /># Sudoku CSP Solver
